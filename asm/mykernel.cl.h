@@ -1,0 +1,1 @@
+void square_kernel(float *input, float *output, float *);
